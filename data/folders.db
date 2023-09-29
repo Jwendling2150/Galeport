@@ -1,6 +1,7 @@
 {"name":"Herbalists","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"0JuMtWyZU4xr17cy"}
 {"name":"BanditCamp","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2AhWxsveuC6nIcSm"}
 {"name":"Merchants","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"5BLEBI1ozonRfd8C"}
+{"name":"PlayerMansion","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"5OmEFoJSkOYuQ9Fw"}
 {"name":"Nobles","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8pFq4xK5rvHgpaAt"}
 {"name":"Carpenters","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"AWKEJEDToPfyxUp1"}
 {"name":"Priests","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Afnr2bdUoqJvbOxO"}
@@ -9,14 +10,13 @@
 {"name":"Blacksmiths","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Ff8UCAEu1YUw2b21"}
 {"name":"Bakers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IJ13Bm1Zx215F4Bg"}
 {"name":"Seamstresses","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Iniljt8inRZZ12Gw"}
+{"name":"Players","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#0035f5","flags":{},"_id":"LCEA7TJ6ESqMuier"}
 {"name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"MWGbk4fReMGfsC88"}
-{"name":"Gurads","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"T1MidQ2OaLRIBLs9"}
+{"_id":"T1MidQ2OaLRIBLs9","name":"Guards","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"Consumables","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dT7XII6wgbDTg9Vv"}
+{"name":"Utility","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#650101","flags":{},"_id":"enevwZpzCnvHTAup"}
 {"name":"CouncilMembers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"g7dYIwIc3Ro72Z5O"}
 {"name":"Children","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"oNA4Xuyckmr84xgA"}
 {"name":"Fishers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ovYj3OVoVIZo9VAi"}
 {"name":"Testing","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#af7a08","flags":{},"_id":"rnNYjuzpEAvVYRxK"}
 {"name":"Farmers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xSJMH8C08WtP469F"}
-{"name":"Players","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#0035f5","flags":{},"_id":"LCEA7TJ6ESqMuier"}
-{"name":"PlayerMansion","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"5OmEFoJSkOYuQ9Fw"}
-{"_id":"T1MidQ2OaLRIBLs9","name":"Guards","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":"","flags":{}}

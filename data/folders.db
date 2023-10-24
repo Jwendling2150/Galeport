@@ -20,3 +20,5 @@
 {"name":"Fishers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ovYj3OVoVIZo9VAi"}
 {"name":"Testing","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#af7a08","flags":{},"_id":"rnNYjuzpEAvVYRxK"}
 {"name":"Farmers","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xSJMH8C08WtP469F"}
+{"name":"Mystery","type":"Actor","parent":"MWGbk4fReMGfsC88","sorting":"a","sort":0,"color":null,"flags":{},"_id":"il5BagWmoo9j6v9B"}
+{"name":"LonelyIslandInn","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"L2bizb1KNKa8Slgy"}
